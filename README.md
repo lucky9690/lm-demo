@@ -1,5 +1,5 @@
-# lm-demo
-this is my first Git Repository.
+lm-dem 
+This is my first Git Repository.
 <br>
 Author:lalit
 
